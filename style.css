@@ -1,3 +1,26 @@
+table {
+
+border-collapse: separate; 
+border-spacing: 5px; }
+
+td {
+
+border: 2px solid black; 
+background-color: #f8f5e4;
+border-radius: 5px; 
+
+padding: 5px; }
+
+td img {
+
+transition: transform 0.3s ease; 
+
+cursor: pointer; }
+
+td img:active {
+
+transform: scale(3);}
+
 a {
 	text-decoration:none;
 	color : #ffffff;
@@ -174,3 +197,4 @@ a.menu {color:black;}
 a.menu:hover {color:#bbbbbb;}
 
 iframe {border-radius:5px};
+
