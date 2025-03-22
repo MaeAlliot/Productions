@@ -153,9 +153,9 @@ body {
 
 /* Couleurs des cartes */
 .red { background-color: #ADD8E6; }
-.blue { background-color: #FFB6C1; }
-.light-blue { background-color: #BDFCC9; }
-.orange { background-color: #E6E6FA; }
+.blue { background-color: #ff9ecd; }
+.light-blue { background-color: #fe8f57; }
+.orange { background-color: #ed9bfd; }
 
 /* Responsive */
 @media (max-width: 768px) {
@@ -196,5 +196,7 @@ audio {
 a.menu {color:black;}
 a.menu:hover {color:#bbbbbb;}
 
+#visuel {background-color: #FFB6C1;}
 iframe {border-radius:5px};
+
 
