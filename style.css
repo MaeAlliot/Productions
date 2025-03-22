@@ -140,3 +140,35 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
+
+p.paragraphe { line-height: 1.5;
+			font-size:20px;} 
+			
+a.lien { color : #99c1ff; }
+a.lien:hover {color: #4a90e2;}
+
+audio {
+  border: 2px solid black; 
+  background-color: #4a90e2;
+  padding: 10px; 
+  border-radius: 5px; 
+}
+
+#nav {color:black;
+	background-color: #f8f5e4;
+    padding: 5px ;	
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+	margin: 5px;
+	text-align: center;
+	width:100px;
+	position: relative;
+  left: 5%;}
+
+#nav:hover {color:#f8f5e4;}
+ 
+a.menu {color:black;}
+a.menu:hover {color:#bbbbbb;
