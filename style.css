@@ -152,10 +152,10 @@ body {
 }
 
 /* Couleurs des cartes */
-.red { background-color: #ff6b6b; }
-.blue { background-color: #4a90e2; }
-.light-blue { background-color: #99c1ff; }
-.orange { background-color: #f5a623; }
+.red { background-color: #ADD8E6; }
+.blue { background-color: #FFB6C1; }
+.light-blue { background-color: #BDFCC9; }
+.orange { background-color: #E6E6FA; }
 
 /* Responsive */
 @media (max-width: 768px) {
@@ -173,7 +173,7 @@ a.lien:hover {color: #4a90e2;}
 
 audio {
   border: 2px solid black; 
-  background-color: #4a90e2;
+  background-color: #FFB6C1;
   padding: 10px; 
   border-radius: 5px; 
 }
