@@ -171,4 +171,6 @@ audio {
 #nav:hover {color:#f8f5e4;}
  
 a.menu {color:black;}
-a.menu:hover {color:#bbbbbb;
+a.menu:hover {color:#bbbbbb;}
+
+iframe {border-radius:5px};
